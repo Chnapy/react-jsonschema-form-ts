@@ -1,0 +1,20 @@
+{
+  "name": "react-jsonschema-form-ts-example",
+  "homepage": "https://Chnapy.github.io/react-jsonschema-form-ts",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-scripts-ts": "^3.1.0",
+    "react-jsonschema-form-ts": "file:.."
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}

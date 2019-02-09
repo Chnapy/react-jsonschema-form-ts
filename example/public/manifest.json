@@ -1,0 +1,8 @@
+{
+  "short_name": "react-jsonschema-form-ts",
+  "name": "react-jsonschema-form-ts",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
